@@ -12,7 +12,7 @@ This mu-plugin remove h1 tags from editor : only h1 tags defined by programming 
 
 ## Screenshots
 
-![Screenshot](https://github.com/webaxones/wax-custom-login/raw/master/assets/screenshots/screenshot-1.png "Screenshot")
+![Screenshot](https://github.com/webaxones/wax-remove-h1-from-editor/raw/master/assets/screenshots/screenshot-1.png "Screenshot")
 
 ## Installation
 
