@@ -10,6 +10,10 @@ This mu-plugin remove h1 tags from editor : only h1 tags defined by programming 
 
 * This mu-plugin remove h1 tags from tinymce editor
 
+## Screenshots
+
+![Screenshot](https://github.com/webaxones/wax-custom-login/raw/master/assets/screenshots/screenshot-1.png "Screenshot")
+
 ## Installation
 
 This is a must have plugin, so, use at it as a mu-plugin.
