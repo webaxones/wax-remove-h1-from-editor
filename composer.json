@@ -1,0 +1,15 @@
+{
+  "name": "Webaxones/wax-remove-h1-from-editor",
+  "description": "Remove the h1 tag from the WordPress editor",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Webaxones",
+      "email": "contact@webaxones.com"
+    }
+  ],
+  "type" : "wordpress-muplugin",
+  "require" : {
+    "composer/installers" : "~1.0"
+  }
+}
